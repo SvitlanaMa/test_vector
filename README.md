@@ -1,2 +1,2 @@
 # test_vector
-Bhaskar Tallamraju images 
+incl. Bhaskar Tallamraju images among others
